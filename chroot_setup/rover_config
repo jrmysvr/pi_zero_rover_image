@@ -1,0 +1,2 @@
+export HOSTNAME="green-rover"
+export ROVER_DIR="/home/pi/rover_control"
